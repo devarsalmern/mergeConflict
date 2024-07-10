@@ -1,4 +1,4 @@
-const palindrome = () => {
+const evenOdd = () => {
   console.log("hello world 1!");
 };
 const func = () => {
