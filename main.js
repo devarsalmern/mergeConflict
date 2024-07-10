@@ -1,3 +1,3 @@
-const num2 = () => {
-  console.log("num2");
+const func = () => {
+  console.log("hello world!");
 };
