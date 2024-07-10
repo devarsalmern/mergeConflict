@@ -1,3 +1,3 @@
-const num1 = () => {
-  console.log("num1");
+const num2 = () => {
+  console.log("num2");
 };
